@@ -20,6 +20,12 @@ const en = {
     subtitle: "Quality education for the future",
     apply: "Apply Now",
     visit: "Book a Visit",
+    campus_section: {
+      eyebrow: "About School",
+      title: "Campus Life at KLS",
+      description:
+        "Learning, mentoring, and collaboration spaces designed for both academic focus and student wellbeing.",
+    },
   },
   programs: {
     title: "Our Programs",

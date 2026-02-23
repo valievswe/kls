@@ -71,12 +71,13 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
           <div className="py-14 sm:py-16">
             <div className="max-w-3xl">
               <p className="text-xs font-semibold uppercase tracking-[0.15em] text-violet-700">
-                About School
+                {t.home.campus_section.eyebrow}
               </p>
-              <h2 className="mt-3 text-3xl text-slate-900 sm:text-4xl">Campus Life at KLS</h2>
+              <h2 className="mt-3 text-3xl text-slate-900 sm:text-4xl">
+                {t.home.campus_section.title}
+              </h2>
               <p className="mt-4 text-[1.05rem] text-slate-700">
-                Learning, mentoring, and collaboration spaces designed for both academic focus and
-                student wellbeing.
+                {t.home.campus_section.description}
               </p>
             </div>
 
