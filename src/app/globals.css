@@ -1,0 +1,28 @@
+@config "../../tailwind.config.ts";
+@import "tailwindcss";
+
+html,
+body {
+  min-height: 100%;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background:
+    radial-gradient(circle at 12% 8%, rgba(139, 92, 246, 0.16), transparent 28%),
+    radial-gradient(circle at 92% 10%, rgba(192, 132, 252, 0.15), transparent 24%),
+    linear-gradient(180deg, #faf8ff 0%, #f5f3ff 45%, #ffffff 100%);
+  color: #1f2937;
+  font-family: Inter, Manrope, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Sora, Inter, Manrope, "SF Pro Display", Arial, sans-serif;
+  letter-spacing: -0.01em;
+}
