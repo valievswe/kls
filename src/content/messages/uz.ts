@@ -9,245 +9,244 @@
   footer: {
     school_name: "Kokand Leader School",
     description:
-      "Kuchli akademik natijalar, kop tilli rivojlanish va xalqaro hamkorlikka yonaltirilgan xususiy K-12 maktab.",
+      "Chuqurlashtirilgan akademik ta'lim, chet tillarini o'rganish va xalqaro hamkorlikka yo'naltirilgan xususiy maktab (1-11 sinflar).",
     links_title: "Havolalar",
-    contact_title: "Boglanish",
-    location: "Kokand, Ozbekiston",
+    contact_title: "Aloqa",
+    location: "Qo'qon shahri, O'zbekiston",
     rights: "Barcha huquqlar himoyalangan.",
   },
-
   home: {
     title: "Kokand Leader School",
-    subtitle: "Kelajak uchun sifatli taâ€™lim",
-    apply: "Ariza topshirish",
-    visit: "Tashrifga yozilish",
+    subtitle: "Kelajak uchun sifatli ta'lim",
+    apply: "Ariza qoldirish",
+    visit: "Ekskursiyaga yozilish",
     campus_section: {
       eyebrow: "Maktab haqida",
-      title: "KLS kampus hayoti",
+      title: "KLS kampusidagi hayot",
       description:
-        "Oquv, mentorlik va hamkorlik uchun yaratilgan makonlar akademik rivoj va oquvchi farovonligini qollab-quvvatlaydi.",
+        "O'quvchilarning sifatli ta'lim olishi va qulayligi uchun yaratilgan o'quv, ustozlik va hamkorlik maskanlari.",
     },
   },
-
   programs: {
-    title: "Taâ€™lim dasturlarimiz",
+    title: "Ta'lim dasturlari",
     items: [
       {
-        title: "Boshlangâ€˜ich maktab",
-        desc: "Til, savodxonlik va ijodiy rivojga yoâ€˜naltirilgan mustahkam bilim poydevori",
+        title: "Boshlang'ich maktab",
+        desc: "Tillar o'rganish va ijodkorlikka yo'naltirilgan mustahkam akademik poydevor.",
       },
       {
-        title: "Oâ€˜rta maktab",
-        desc: "Fanlar, matematika va shaxsiy rivojlanishni uygâ€˜unlashtirgan dastur",
+        title: "O'rta maktab",
+        desc: "Aniq fanlar va shaxsiy rivojlanishni o'z ichiga olgan muvozanatli o'quv dasturi.",
       },
       {
         title: "Yuqori sinflar",
-        desc: "Universitetga kirish va xalqaro imtihonlarga puxta tayyorgarlik",
+        desc: "Oliy o'quv yurtlariga va xalqaro imtihonlarga sifatli tayyorgarlik ko'rish.",
       },
     ],
   },
-
   cta: {
-    title: "Qabul boshlandi",
-    subtitle: "Hozir ariza topshiring yoki maktabga tashrifni rejalashtiring.",
-    primary: "Qabul sahifasiga oâ€˜tish",
-    secondary: "Biz bilan bogâ€˜lanish",
+    title: "Qabul davom etmoqda",
+    subtitle:
+      "Hozirroq ariza qoldiring yoki maktab bilan tanishish uchun ro'yxatdan o'ting.",
+    primary: "Qabul bo'limiga o'tish",
+    secondary: "Biz bilan bog'lanish",
   },
-
   programs_page: {
     title: "Dasturlar",
-    subtitle: "Har bir yosh bosqichi uchun toâ€˜liq Kâ€“12 taâ€™lim yoâ€˜li.",
+    subtitle:
+      "Har bir yosh bosqichida barkamol rivojlanish uchun 1-11 sinflarga mo'ljallangan to'liq ta'lim yo'li.",
     overview:
-      "Har bir bosqichda aniq oâ€˜quv natijalari, loyiha asosidagi taâ€™lim va til qoâ€˜llab-quvvatlovi mavjud boâ€˜lib, oâ€˜quvchilar ishonch bilan keyingi bosqichga oâ€˜tadi.",
+      "Har bir ta'lim bosqichida aniq akademik maqsadlar, loyihalarga asoslangan o'qitish va chet tili amaliyoti mavjud bo'lib, o'quvchilarning ishonch bilan oldinga intilishiga yordam beradi.",
     tracks: [
       {
-        title: "Boshlangâ€˜ich bosqich",
-        desc: "Savodxonlik, matematika asoslari va qiziqishni rivojlantirishga yoâ€˜naltirilgan muhit.",
+        title: "Boshlang'ich ta'lim",
+        desc: "Qo'llab-quvvatlovchi muhitda o'qish va hisoblashning boshlang'ich ko'nikmalarini shakllantirish, qiziqishlarni uyg'otish.",
         focus: [
-          "Ingliz va oâ€˜zbek savodxonligi",
-          "Matematika asoslari",
-          "Ijodiy mashgâ€˜ulotlar va harakat",
+          "O'zbek va ingliz tillari savodxonligi",
+          "Boshlang'ich matematik ko'nikmalar",
+          "Ijodiy va jismoniy rivojlanish",
         ],
       },
       {
-        title: "Oâ€˜rta bosqich",
-        desc: "Tahliliy fikrlashni kuchaytirish va fanlararo oâ€˜rganish koâ€˜nikmalarini shakllantirish.",
+        title: "O'rta ta'lim",
+        desc: "O'smirlarda tahliliy fikrlash va fanlararo bog'lanish ko'nikmalarini rivojlantirish.",
         focus: [
-          "STEM laboratoriyalar va loyihalar",
-          "Tadqiqot va yozish koâ€˜nikmalari",
-          "Liderlik klublari",
+          "STEM laboratoriyalari va loyihalar",
+          "Izlanish va yozish amaliyoti",
+          "Liderlik to'garaklari",
         ],
       },
       {
-        title: "Yuqori bosqich",
-        desc: "Universitetga yoâ€˜naltirilgan chuqur akademik tayyorgarlik.",
+        title: "Yuqori ta'lim",
+        desc: "O'zbekiston va xorijiy universitetlarga kirish uchun fanlarni chuqurlashtirilgan tarzda o'rganish va imtihonlarga tayyorgarlik.",
         focus: [
-          "Yoâ€˜nalish boâ€˜yicha fanlar",
-          "Imtihon tayyorgarligi",
-          "Universitet boâ€˜yicha maslahat",
+          "Tanlov asosidagi ixtisoslashgan fanlar",
+          "Imtihonlarga tayyorgarlik",
+          "Kasbga yo'naltirish va universitetga kirishda yordam",
         ],
       },
     ],
-    support_title: "Oâ€˜quvchilarni qoâ€˜llab-quvvatlash",
+    support_title: "O'quvchilarni qanday qo'llab-quvvatlaymiz?",
     support_items: [
-      "Haftalik mentor uchrashuvlari",
-      "Asosiy fanlar boâ€˜yicha kichik guruh mashgâ€˜ulotlari",
-      "Ota-onalar bilan muntazam aloqa va rivojlanish kuzatuvi",
+      "Kuratorlar bilan har haftalik uchrashuvlar va akademik ustozlik",
+      "Asosiy fanlar bo'yicha kichik guruhlarda qo'shimcha darslar",
+      "Ota-onalar bilan muntazam aloqa va o'zlashtirish nazorati",
     ],
-    cta_title: "Farzandingiz uchun mos yoâ€˜lni tanlang",
-    cta_text: "Darajani aniqlash va qabul bosqichlarini jamoamiz bilan muhokama qiling.",
+    cta_title: "Farzandingiz uchun eng to'g'ri yo'lni tanlang",
+    cta_text:
+      "Farzandingizning bilim darajasini aniqlash va qabul bosqichlarini muhokama qilish uchun jamoamiz bilan uchrashing.",
   },
-
   about_page: {
     title: "Maktab haqida",
-    subtitle: "Oâ€˜quvchi rivoji va tarbiyasiga eâ€™tibor qaratgan zamonaviy maktab jamoasi.",
+    subtitle:
+      "O'quvchilarning shaxsiy rivojlanishi va yuqori natijalariga yo'naltirilgan zamonaviy maktab jamoasi.",
     mission_title: "Bizning missiyamiz",
     mission_text:
-      "Kokand Leader School yuqori akademik talablar, mehrli mentorlik va koâ€˜p tilli muhit orqali kuchli bilimli oâ€˜quvchilarni tarbiyalaydi.",
-    values_title: "Qadriyatlarimiz",
+      "Kokand Leader School yuqori akademik standartlar, g'amxo'r ustozlik va ko'p tilli muhit orqali bilimli va yetakchi yoshlarni tarbiyalaydi.",
+    values_title: "Bizning qadriyatlarimiz",
     values: [
       {
-        title: "Akademik masâ€™uliyat",
-        desc: "Aniq talablar va barqaror tartib kuchli oâ€˜quv odatlarini shakllantiradi.",
+        title: "Akademik tartib-intizom",
+        desc: "Aniq talablar va tizimli yondashuv o'quvchilarda to'g'ri o'qish ko'nikmalarini shakllantirishga yordam beradi.",
       },
       {
-        title: "Xarakter va yetakchilik",
-        desc: "Oâ€˜quvchilar tashabbus koâ€˜rsatishga, hamkorlik qilishga va jamiyatga foyda keltirishga undaladi.",
+        title: "Xarakter va liderlik",
+        desc: "Biz o'quvchilarni tashabbuskor bo'lishga, jamoada ishlashga va jamiyatga foyda keltirishga ruhlantiramiz.",
       },
       {
         title: "Keng dunyoqarash",
-        desc: "Xalqaro hamkorlik va tillarni oâ€˜rganish erta yoshdan fikr doirasini kengaytiradi.",
+        desc: "Xalqaro hamkorlik va chet tillarini o'rganish yoshlikdan dunyoqarashni kengaytiradi.",
       },
     ],
-    gallery_title: "Maktab hayoti",
-    gallery_subtitle: "Kampus, darslar va oâ€˜quvchilar faoliyatidan lavhalar.",
+    gallery_title: "Maktab galereyasi",
+    gallery_subtitle:
+      "Bizning o'quv xonalarimiz, tadbirlarimiz va maktab hayoti bilan tanishing.",
     gallery: [
       {
-        title: "Kampus hududi",
-        desc: "Har kuni oâ€˜qish uchun xavfsiz va qulay muhit.",
+        title: "Maktab hududi",
+        desc: "Kunlik ta'lim uchun mo'ljallangan xavfsiz va shinam maktab muhiti.",
       },
       {
-        title: "Dars jarayoni",
-        desc: "Faol ishtirokga asoslangan interaktiv mashgâ€˜ulotlar.",
+        title: "O'quv jarayoni",
+        desc: "O'quvchilarning faol ishtiroki va o'qituvchi yordamiga asoslangan interaktiv darslar.",
       },
       {
-        title: "Oâ€˜quvchi tadbirlari",
-        desc: "Ishonch va jamoaviylikni rivojlantiruvchi loyihalar va bayramlar.",
+        title: "Maktab tadbirlari",
+        desc: "O'ziga bo'lgan ishonch va jamoaviy ruhni rivojlantiradigan bayramlar va loyihalar.",
       },
       {
-        title: "Sport va klublar",
-        desc: "Harakat, oâ€˜yin va toâ€˜garaklar orqali muvozanatli rivojlanish.",
+        title: "Sport va to'garaklar",
+        desc: "Harakat, o'yinlar va to'garaklar orqali har tomonlama rivojlanish.",
       },
     ],
   },
-
   admissions_page: {
     title: "Qabul",
-    subtitle: "Oilalar uchun sodda va shaffof qabul jarayoni.",
-    process_title: "Qabul bosqichlari",
+    subtitle: "Ota-onalar uchun oddiy va ochiq qabul jarayoni.",
+    process_title: "Qabul qilinish tartibi",
     process: [
       {
-        title: "1. Soâ€˜rov yuborish",
-        desc: "Oâ€˜quvchi maâ€™lumotlari va sinf darajasini qabul boâ€˜limiga yuboring.",
+        title: "1. Ariza qoldirish",
+        desc: "Qabul bo'limimiz bilan bog'lanib, farzandingiz haqida va qaysi sinfga kirmoqchiligini ma'lum qiling.",
       },
       {
-        title: "2. Baholash va suhbat",
-        desc: "Qisqa daraja aniqlash testi va rahbariyat bilan uchrashuv.",
+        title: "2. Sinov va suhbat",
+        desc: "O'quvchilar bilim darajasini aniqlash uchun testdan o'tadilar, ota-onalar esa maktab rahbariyati bilan suhbatlashadilar.",
       },
       {
-        title: "3. Qabul va roâ€˜yxatdan oâ€˜tish",
-        desc: "Taklifni qabul qiling, joyni tasdiqlang va hujjatlarni yakunlang.",
+        title: "3. O'qishga qabul qilish",
+        desc: "Qabul qilinganlik haqida tasdiq oling, joyni band qiling va kerakli hujjatlarni rasmiylashtiring.",
       },
     ],
     requirements_title: "Kerakli hujjatlar",
     requirements: [
-      "Tugâ€˜ilganlik guvohnomasi nusxasi",
-      "Avvalgi maktab baholari yoki tabel",
-      "Ota-ona yoki vasiy pasporti nusxasi",
-      "Tibbiy maâ€™lumotnoma va emlash kartasi",
+      "Bolaning tug'ilganlik haqidagi guvohnomasi nusxasi",
+      "Avvalgi maktabidan baholar tabeli",
+      "Ota-onalardan birining (yoki vasiyning) pasport nusxasi",
+      "Tibbiy ma'lumotnoma va emlash kartasi",
     ],
-    timeline_title: "Muhim muddatlar",
+    timeline_title: "Muhim sanalar",
     timeline: [
-      { label: "Asosiy qabul", value: "Iyun â€“ Avgust" },
-      { label: "Yil oâ€˜rtasi oâ€˜tkazish", value: "Dekabr â€“ Yanvar" },
-      { label: "Javob muddati", value: "Baholashdan keyin 5 ish kuni ichida" },
+      { label: "Asosiy qabul", value: "Iyun - Avgust" },
+      { label: "O'quv yili o'rtasida o'tish", value: "Dekabr - Yanvar" },
+      { label: "Javob vaqti", value: "Sinovdan so'ng 5 ish kuni ichida" },
     ],
   },
-
   contacts_page: {
     title: "Aloqa",
-    subtitle: "Qabul yoki hamkorlik boâ€˜limlari bilan bogâ€˜laning.",
-    visit_title: "Kampusga tashrif",
-    visit_lines: ["Kokand Leader School", "Kokand, Oâ€˜zbekiston", "Duâ€“Ju: 08:30 â€“ 17:30"],
-    departments_title: "Boâ€˜limlar",
+    subtitle: "Qabul komissiyasi va hamkorlik bo'limi bilan bog'laning.",
+    visit_title: "Maktabga tashrif",
+    visit_lines: [
+      "Kokand Leader School",
+      "Qo'qon shahri, O'zbekiston",
+      "Dush-Juma: 08:30 - 17:30",
+    ],
+    departments_title: "Bo'limlar",
     departments: [
       {
-        name: "Qabul boâ€˜limi",
+        name: "Qabul komissiyasi",
         email: "admissions@kls.uz",
-        phone: "+998 70 000 00 01",
+        phone: "+998 97 810 70 77",
       },
       {
-        name: "Hamkorlik boâ€˜limi",
+        name: "Hamkorlik bo'limi",
         email: "partnerships@kls.uz",
-        phone: "+998 70 000 00 00",
+        phone: "+998 97 810 70 77",
       },
       {
-        name: "Oâ€˜quvchilar bilan ishlash",
+        name: "O'quvchilar bilan ishlash bo'limi",
         email: "students@kls.uz",
-        phone: "+998 70 000 00 02",
+        phone: "+998 97 810 70 77",
       },
     ],
     hours_title: "Qabul vaqtlari",
     hours: [
-      "Dushanba â€“ Juma: 08:30 â€“ 17:30",
-      "Shanba: 09:00 â€“ 13:00",
-      "Yakshanba: Dam olish",
+      "Dushanba - Juma: 08:30 - 17:30",
+      "Shanba: 09:00 - 13:00",
+      "Yakshanba: Dam olish kuni",
     ],
-    form_title: "Soâ€˜rov yuborish",
+    form_title: "Xabar yo'llash",
     form_subtitle: "Odatda bir ish kuni ichida javob beramiz.",
     form_fields: {
-      name: "Toâ€˜liq ism",
+      name: "F.I.Sh.",
       email: "Elektron pochta",
       message: "Xabar",
-      submit: "Yuborish",
+      submit: "Xabarni yuborish",
     },
   },
-
   academic_overview: {
-    title: "Akademik yoâ€˜nalish",
+    title: "Ta'lim dasturining umumiy ko'rinishi",
     items: [
       {
-        title: "Oâ€˜quv dasturi",
-        desc: "Mustahkam bilim asoslariga yoâ€˜naltirilgan tizimli taâ€™lim.",
+        title: "O'quv dasturi",
+        desc: "Mustahkam bazaviy bilimlarga qaratilgan tizimli dastur.",
       },
-      { title: "Tillar", desc: "Aniq maqsadlarga ega koâ€˜p tilli muhit." },
+      { title: "Tillar", desc: "Aniq ta'lim maqsadlariga ega ko'p tilli muhit." },
       {
-        title: "Oâ€˜quvchilarni qoâ€˜llab-quvvatlash",
-        desc: "Akademik rivoj uchun mentorlik va yoâ€˜l-yoâ€˜riq.",
+        title: "O'quvchilarni qo'llab-quvvatlash",
+        desc: "Akademik o'sish uchun ustozlik va yo'l-yo'riqlar.",
       },
     ],
   },
-
   partnerships: {
     title: "Hamkorlik imkoniyatlari",
-    subtitle: "Xalqaro muassasalar bilan uzoq muddatli hamkorlikka ochiqmiz.",
+    subtitle: "Biz xalqaro ta'lim muassasalari bilan uzoq muddatli hamkorlikka ochiqmiz.",
     items: [
       {
-        title: "Talabalar almashinuvi",
+        title: "O'quvchilar almashinuvi",
         desc: "Qisqa va uzoq muddatli almashinuv dasturlari.",
       },
       {
-        title: "Qoâ€˜shma tadbirlar",
-        desc: "Olimpiadalar, konferensiyalar va akademik tanlovlar.",
+        title: "Qo'shma tadbirlar",
+        desc: "Olimpiadalar, konferensiyalar va akademik bellashuvlar.",
       },
       {
-        title: "Oâ€˜qituvchilar rivoji",
-        desc: "Hamkor maktablar bilan seminar va treninglar.",
+        title: "O'qituvchilar malakasini oshirish",
+        desc: "Hamkor maktablar bilan seminarlar va treninglar.",
       },
-      { title: "Loyihalar", desc: "Hamkorlikdagi ilmiy va taâ€™lim loyihalari." },
+      { title: "Loyihalar", desc: "Qo'shma loyihalar va ilmiy-izlanish faoliyati." },
     ],
   },
 };
 
 export default uz;
-
